@@ -61,4 +61,4 @@ Erstellen Sie ein HTML File mit folgendem Inhalt:
 Formattieren Sie das bestehende HTML nun so dass es wie auf folgendem Bild aussieht:
 
 
-![Übung 2.1](https://github.com/Andi-Moser/SJ20-21-M152/raw/main/Uebungen/img/Uebung2-1.png)
+![Übung 2.1](https://github.com/Andi-Moser/SJ20-21-M152/raw/main/m152/Uebungen/img/Uebung2-1.png)
