@@ -2,6 +2,23 @@
 
 > Wie immer, erstellen Sie zuerst einen eigenen Ordner für diese Übung.
 
+## CSS Selektoren ##
+
+Es gibt verschiedenste CSS Selektoren - doch nicht jeder Selektor ergibt in jedem
+Kontext Sinn.
+
+Im Folgenden sind die wichtigsten Selektoren aufgelistet. Eine komplette Liste aller Selektoren finden
+Sie [hier](https://www.w3schools.com/cssref/css_selectors.asp).
+
+| Name | Selektor | Anwendung |
+| --- | --- | --- |
+| Verschachtelung | `div ul` | Wählt alle `ul` Elemente welche sich in einem `div` Element befinden |
+| Element | div | Wählt alle `div` Elemente |
+| Klasse | .myClass | Wählt alle Elemente welche die `myClass` Klasse besitzen (`class='myClass'`) |
+| Mehrere Klassen | .myClass.red | Wählt alle Elemente welche die Klassen `myClass` und `red` besitzen (`class='myClass red'`) |
+| ID | #myElement | Wählt das Element mit der ID `myElement` (`id='myElement'`)<br />Achtung, keine zwei Elemente dürfen dieselbe ID besitzen |
+| Direkt unterhalb | ul > li | Wählt alle `li` Elemente welche direkt nach einem `ul` Element stehen (`<ul><li>Element</li></ul>`) |
+
 ## Aufgabestellung ##
 
 Erstellen Sie ein HTML File mit folgendem Inhalt:
