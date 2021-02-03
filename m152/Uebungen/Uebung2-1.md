@@ -17,7 +17,8 @@ Sie [hier](https://www.w3schools.com/cssref/css_selectors.asp).
 | Klasse | .myClass | Wählt alle Elemente welche die `myClass` Klasse besitzen (`class='myClass'`) |
 | Mehrere Klassen | .myClass.red | Wählt alle Elemente welche die Klassen `myClass` und `red` besitzen (`class='myClass red'`) |
 | ID | #myElement | Wählt das Element mit der ID `myElement` (`id='myElement'`)<br />Achtung, keine zwei Elemente dürfen dieselbe ID besitzen |
-| Direkt unterhalb | ul > li | Wählt alle `li` Elemente welche direkt nach einem `ul` Element stehen (`<ul><li>Element</li></ul>`) |
+| Direkt unterhalb | ul > li | Wählt alle `li` Elemente welche direkt unterhalb eines `ul` Element stehen (`<ul><li>Element</li></ul>`) |
+| Direkter nachfolger | li + li | Wählt alle `li` Elemente welche direkt nach einem `li` Element stehen (`<li></li><li></li>`) |
 
 ## Aufgabestellung ##
 
