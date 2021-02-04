@@ -10,6 +10,8 @@ Kontext Sinn.
 Im Folgenden sind die wichtigsten Selektoren aufgelistet. Eine komplette Liste aller Selektoren finden
 Sie [hier](https://www.w3schools.com/cssref/css_selectors.asp).
 
+**Standard Selektoren**
+
 | Name | Selektor | Anwendung |
 | --- | --- | --- |
 | Verschachtelung | `div ul` | Wählt alle `ul` Elemente welche sich in einem `div` Element befinden |
@@ -19,6 +21,16 @@ Sie [hier](https://www.w3schools.com/cssref/css_selectors.asp).
 | ID | #myElement | Wählt das Element mit der ID `myElement` (`id='myElement'`)<br />Achtung, keine zwei Elemente dürfen dieselbe ID besitzen |
 | Direkt unterhalb | ul > li | Wählt alle `li` Elemente welche direkt unterhalb eines `ul` Element stehen (`<ul><li>Element</li></ul>`) |
 | Direkter nachfolger | li + li | Wählt alle `li` Elemente welche direkt nach einem `li` Element stehen (`<li></li><li></li>`) |
+
+**Pseudo Selektoren**
+
+| Name | Selektor | Anwendung |
+| --- | --- | --- |
+| Hover | :hover | Spricht Elemente an über welchen sich der Mauszeiger befindet |
+| Focus | :focus | Spricht Elemente an welche den Fokus haben (z.B. wenn der Benutzer mit `Tab` die Elemente durchgeht) |
+| Positionen | :last-child<br />:first-child<br />:first-of-type<br />:last-of-type | Werden verwendet um Elemente aufgrund ihrer Position im Elternelement auszuwählen |
+| Formulare | :required<br />:optional<br />:invalid<br />:valid | Werden verwendet um Formularelemente aufgrund ihres Status auszuwählen |
+
 
 ## Aufgabestellung ##
 
