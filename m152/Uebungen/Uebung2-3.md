@@ -30,6 +30,7 @@ folgende Informationen erhalten:
 - Alle Elemente können gefählrich oder ungefährlich sein
     - Ebenfalls mit einer Klasse, `dangerous`
 - Buttons können auch ausgeblendet werden. Hierfür wird eine Klasse `hide` hinzugefügt
+- Buttons über welchen der Mauszeiger befindet (`hover` Status) sollen einen roten Rand haben
 
 Folgendes Stylesheet ist Teil des Designs und **muss** verwendet werden:
 
