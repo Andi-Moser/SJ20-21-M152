@@ -10,7 +10,7 @@
 
     > Mit dem obersten Element ist jenes gemeint welches die anderen vier Elemente beinhaltet.
 
-1. Die untergeordneten `div`'s brauchen nun noch die Eigenschaft `display: flex;`
+1. Die untergeordneten `div`'s brauchen nun noch die Eigenschaft `flex: 1;`
 
 1. Geben Sie allen untergeordneten `div` Elementen ein `border: 1px solid black;` und `height: 100%;`.
 
