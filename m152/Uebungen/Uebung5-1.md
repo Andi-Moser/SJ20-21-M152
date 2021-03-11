@@ -1,5 +1,7 @@
 # Übung 5.1 #
 
+> Diese Übung benötigt keine Abgabe!
+
 ## Responsive Web Design (RWD) ##
 
 CSS ist bekanntliche keine Programmiersprache im eigentlichen Sinne (zumindest zurzeit noch nicht - CSS entwickelt sich
