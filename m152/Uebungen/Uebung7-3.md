@@ -37,4 +37,4 @@ dazu folgende Ausgabe macht:
 
 ## Bonusaufgabe ##
 
-Fügen Sie ein Eingabefeld und Butotn ein, welche einem Fach eine neue Note hinzufügen.
+Fügen Sie ein Eingabefeld und Button ein, welche einem Fach eine neue Note hinzufügen.

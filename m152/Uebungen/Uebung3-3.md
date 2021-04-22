@@ -24,7 +24,7 @@ Eine Transformation verändert die Box welche ein Element belegt.
 
 ## Aufgabe ##
 
-Wir erweitern wieder die Personenblöcke aus der Übung 3.2. Ihr Chef möchte gerne einen Effekt wenn ein Benutzer
+Wir erweitern wieder die Personenblöcke aus der Übung 3.1. Ihr Chef möchte gerne einen Effekt wenn ein Benutzer
 über eine Person hovert:
 
 - Die Box sollte leicht grösser werden
