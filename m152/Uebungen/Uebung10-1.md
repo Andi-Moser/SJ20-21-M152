@@ -28,3 +28,6 @@ Erstellen Sie eine kurze Präsentation über diese Lizenz. Fokussieren Sie Sich 
 - Gibt die Lizenzen Einschränkungen vor, wenn ich meinen Code unter anderen Lizenzen veröffentlichen möchte?
 
 > Laden Sie die Präsentation als PDF oder Bilder in Ihr git Repository als Abgabe dieses Auftrags.
+
+> Die gemachten Präsentation werden Ihnen auf dem Klassen-Sharepoint zur Verfügung gestellt.
+> Als weitere Referenz zu den Lizenzen empfehle ich Ihnen [diese Website](https://choosealicense.com/)
