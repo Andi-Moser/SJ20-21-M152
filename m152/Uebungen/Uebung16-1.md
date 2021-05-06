@@ -29,3 +29,6 @@ Sie können dabei folgende Ressourcen verwenden:
 - [Material Design Color Palette](https://material.io/design/color/the-color-system.html#tools-for-picking-colors) um ein Farbschema zu erstellen
 - [fonts.google.com](https://fonts.google.com/) für die Schriftarten
     - Hinweis: alle Google Fonts sind bereits bei Figma hinterlegt!
+    
+> Legen Sie den Link in einer Textdatei in Ihrem GitHub Repository als Abgabe ab.
+> Den Link erhalten Sie wenn Sie oben rechts auf den "Play" Button drücken.
