@@ -12,6 +12,28 @@ Daten und fix erstellte "Seiten" welche untereinander verlinkt sind.
 
 Zusammen mit dem Dozent werden Sie nun das Tool "Figma" näher anschauen und einen ersten Prototyp erstellen.
 
+### Prototype - Wireframe ###
+
+Vielleicht haben Sie den Begriff Wireframe schonmal gehört. Als die heutigen Prototyping Tools noch nicht
+so fortgeschritten waren, war es Standard zu Beginn des Projekts erstmals ein Wireframe herzustellen.
+
+Ein Wireframe ist quasi die Vorstufe zum Prototyp. Das Wireframe enthält jedoch noch sehr wenig effektive
+Design-Elemente. Es ist meistens in Schwarz und Weiss (bzgl mit Grautönen) aufgebaut und soll hauptsächlich
+die örtliche Aufteilung der Komponenten veranschaulichen. So konnte, z.B. für eine Applikation, der Designer
+erstmal definieren wo welche Buttons, Toolbars, Eingabefelder usw hingehören, bevor er sich Fragen über Farbschema,
+Logo, Bildwelt usw gestellt hat.
+
+Im Gegensatz zu Prototypen waren Wireframes meistens auch nicht klickbar - sie hatten keinerlei interaktive Elemente.
+Heutzutage werden sie deshalb höchstens noch als Vorarbeit für den Designer erstellt und nicht mehr direkt mit dem
+Kunden kommuniziert.
+
+### Vorteile und Nachteile ###
+
+| | Wireframes | Prototypen |
+| --- | --- | --- |
+| Vorteile | Einfach zu erstellen/anzupassen<br />Ästhetik spielt noch keine Rolle<br />Fokus auf UX/Usability | Tests mit Enduser möglich<br />Interaktivität<br />Design ist final |
+| Nachteile | Für Laien schwer zu deuten<br />Sagen nichts über das Design aus | Mehr Aufwand zur Herstellung erforderlich<br />Änderungen können womöglich das Design beeinträchtigen |
+
 ### MyMusicPlayer ###
 
 Erstellen Sie nun einen Prototyp für einen Musikplayer à la Spotify. Erstellen Sie mindestens
