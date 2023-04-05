@@ -1,6 +1,6 @@
 # Übung 2.3 #
 
-> Wie immer, erstellen Sie zuerst einen eigenen Ordner für diese Übung.
+> Wie immer, erstellen Sie zuerst eine eigene Seite mit Route + Komponente für diese Übung.
 
 ## Spezifität ##
 
@@ -15,7 +15,7 @@ Die Spezifität eines CSS Selektors wird wie folgt berechnet:
 
 ## Aufgabe ##
 
-Bauen Sie nun die Seite mit den 4 Buttons nach. Sie haben von Ihrem Auftraggeber hierzu
+Bauen Sie nun die Seite mit den 4 Buttons aus der Übung 2.2 nach. Sie haben von Ihrem Auftraggeber hierzu
 folgende Informationen erhalten:
 
 - Fortfahren soll grün sein
