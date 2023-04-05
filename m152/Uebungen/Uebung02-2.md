@@ -1,6 +1,6 @@
 # Übung 2.2 #
 
-> Wie immer, erstellen Sie zuerst einen eigenen Ordner für diese Übung.
+> Wie immer, erstellen Sie zuerst eine eigene Seite mit Route + Komponente für diese Übung.
 
 ## Aufgabe 1 ##
 
@@ -36,7 +36,7 @@ Sie dies mit Ihrem Sitznachbarn.
 
 ## Aufgabe 2 ##
 
-Verwenden Sie für diese Aufgabe folgendes HTML File:
+Verwenden Sie für diese Aufgabe folgenden Inhalt für das `template` der Seite:
 
 ```html
 <html>
