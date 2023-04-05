@@ -1,6 +1,6 @@
 # Übung 2.1 #
 
-> Wie immer, erstellen Sie zuerst eine eigene Datei welche entsprechend verlinkt ist für diese Übung.
+> Wie immer, erstellen Sie zuerst eine eigene Seite mit Route + Komponente für diese Übung.
 
 ## CSS Selektoren ##
 
