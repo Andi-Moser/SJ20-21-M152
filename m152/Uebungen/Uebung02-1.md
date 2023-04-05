@@ -1,6 +1,6 @@
 # Übung 2.1 #
 
-> Wie immer, erstellen Sie zuerst einen eigenen Ordner für diese Übung.
+> Wie immer, erstellen Sie zuerst eine eigene Datei welche entsprechend verlinkt ist für diese Übung.
 
 ## CSS Selektoren ##
 
@@ -34,61 +34,47 @@ Sie [hier](https://www.w3schools.com/cssref/css_selectors.asp).
 
 ## Aufgabestellung ##
 
-Erstellen Sie ein HTML File mit folgendem Inhalt:
+Fügen Sie folgenden HTML Code im `template` Ihrer Seite ein:
 
 ```html
-<html lang="de">
-    <head>
-        <title>Übung 2.1</title>
-    </head>
+<h1>Dieses Tag ist ein: h1</h1>
 
-    <body>
+<p class="lead">p-Tag mit Klasse 'lead'</p>
 
-        <h1>Dieses Tag ist ein: h1</h1>
+<p class="text">p-Tag mit Klasse 'text'</p>
 
-        <p class="lead">p-Tag mit Klasse 'lead'</p>
+<div>
+    List innerhalb eines div Tags
+    <ul>
+        <li>Listeneintrag 1</li>
+        <li>Listeneintrag 2</li>
+        <li>Listeneintrag 3</li>
+    </ul>
+</div>
 
-        <p class="text">p-Tag mit Klasse 'text'</p>
+<ul>
+    <li>Liste</li>
+    <li>ausserhalb</li>
+    <li>eines div-Tags</li>
+</ul>
 
-        <div>
-            List innerhalb eines div Tags
-            <ul>
-                <li>Listeneintrag 1</li>
-                <li>Listeneintrag 2</li>
-                <li>Listeneintrag 3</li>
-            </ul>
-        </div>
+<ul class="long">
+    <li>Eine</li>
+    <li>lange</li>
+    <li>Liste</li>
+    <li>mit</li>
+    <li>vielen</li>
+    <li>Punkten</li>
+</ul>
 
-        <ul>
-            <li>Liste</li>
-            <li>ausserhalb</li>
-            <li>eines div-Tags</li>
-        </ul>
-
-        <ul class="long">
-            <li>Eine</li>
-            <li>lange</li>
-            <li>Liste</li>
-            <li>mit</li>
-            <li>vielen</li>
-            <li>Punkten</li>
-        </ul>
-
-        <form>
-            <input type="text" id="name" value="Input mit id 'name'" />
-            <input type="text" value="Normales Textfeld" />
-            <input type="number" value="1234" />
-        </form>
-
-    </body>
-
-    <style type="text/css">
-        // Styles hier einfügen
-    </style>
+<form>
+    <input type="text" id="name" value="Input mit id 'name'" />
+    <input type="text" value="Normales Textfeld" />
+    <input type="number" value="1234" />
+</form>
 </html>
 ```
 
 Formattieren Sie das bestehende HTML nun so dass es wie auf folgendem Bild aussieht:
-
 
 ![Übung 2.1](https://github.com/Andi-Moser/SJ20-21-M152/raw/master/m152/Uebungen/img/Uebung2-1.png)
