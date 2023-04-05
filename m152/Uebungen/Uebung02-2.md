@@ -39,33 +39,30 @@ Sie dies mit Ihrem Sitznachbarn.
 Verwenden Sie für diese Aufgabe folgenden Inhalt für das `template` der Seite:
 
 ```html
-<html>
-    <body>
-    
-    <button id="continue">Fortfahren</button>
-    <button id="back">Zurück</button>
-    <button id="abort">Abbrechen</button>
-    <button id="restart">Neu Starten</button>
-    
-    <style type="text/css">
-        #continue {
-            background-color: green;
-        }
-    
-        #back {
-            background-color: orange;
-        }
-    
-        #abort {
-            background-color: red;
-        }
-    
-        #restart {
-            background-color: blue;
-        }
-    </style>
-</body>
-</html>
+<button id="continue">Fortfahren</button>
+<button id="back">Zurück</button>
+<button id="abort">Abbrechen</button>
+<button id="restart">Neu Starten</button>
+```
+
+... und folgenden Code für den `style` Teil:
+
+```css
+#continue {
+    background-color: green;
+}
+
+#back {
+    background-color: orange;
+}
+
+#abort {
+    background-color: red;
+}
+
+#restart {
+    background-color: blue;
+}
 ```
 
 Sie haben nun vom Kunden den Auftrag erhalten, das Interface so zu gestalten dass Buttons
